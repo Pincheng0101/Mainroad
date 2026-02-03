@@ -11,8 +11,8 @@
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-node": "^7.0.1",
-    "postcss-cli": "^6.1.2",
-    "stylelint": "^9.10.1",
+    "postcss-cli": "^11.0.1",
+    "stylelint": "^17.1.1",
     "stylelint-order": "^2.1.0"
   },
   "scripts": {
